@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nitin-4921/Leetcode/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/nitin-4921/Leetcode/tree/master/0278-first-bad-version) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitin-4921/Leetcode/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nitin-4921/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
