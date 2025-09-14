@@ -47,9 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nitin-4921/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nitin-4921/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
