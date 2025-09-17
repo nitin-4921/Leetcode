@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nitin-4921/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/nitin-4921/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/nitin-4921/Leetcode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/nitin-4921/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0283-move-zeroes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Search
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nitin-4921/Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/nitin-4921/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
