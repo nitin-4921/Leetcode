@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-4921/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/nitin-4921/Leetcode/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Search
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-4921/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/nitin-4921/Leetcode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/nitin-4921/Leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitin-4921/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0070-climbing-stairs) |
+| [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Stack
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitin-4921/Leetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-4921/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
