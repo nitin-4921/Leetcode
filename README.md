@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/nitin-4921/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nitin-4921/Leetcode/tree/master/0792-binary-search) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitin-4921/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/nitin-4921/Leetcode/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
