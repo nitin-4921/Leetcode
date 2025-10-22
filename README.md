@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/nitin-4921/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/nitin-4921/Leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/nitin-4921/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitin-4921/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nitin-4921/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-4921/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/nitin-4921/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-4921/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
