@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nitin-4921/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nitin-4921/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0137-single-number-ii](https://github.com/nitin-4921/Leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitin-4921/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nitin-4921/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-4921/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/nitin-4921/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nitin-4921/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0899-binary-gap](https://github.com/nitin-4921/Leetcode/tree/master/0899-binary-gap) |
