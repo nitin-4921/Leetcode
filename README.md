@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nitin-4921/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nitin-4921/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/nitin-4921/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nitin-4921/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/nitin-4921/Leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nitin-4921/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitin-4921/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/nitin-4921/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/nitin-4921/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/nitin-4921/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nitin-4921/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-4921/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nitin-4921/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/nitin-4921/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/nitin-4921/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitin-4921/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
