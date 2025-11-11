@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nitin-4921/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nitin-4921/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/nitin-4921/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/nitin-4921/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nitin-4921/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/nitin-4921/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Backtracking
 |  |
 | ------- |
