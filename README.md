@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nitin-4921/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitin-4921/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1675-magnetic-force-between-two-balls](https://github.com/nitin-4921/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
