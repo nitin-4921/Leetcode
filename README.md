@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/nitin-4921/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitin-4921/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-4921/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nitin-4921/Leetcode/tree/master/0289-game-of-life) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/nitin-4921/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Enumeration
+|  |
+| ------- |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 <!---LeetCode Topics End-->
