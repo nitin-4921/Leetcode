@@ -1,23 +1,12 @@
 class Solution {
     public int minimumOperations(int[] nums) {
-
-        boolean flag = true ;
-        int n = 0 ;
-        int count = 0 ;
-
-        for (int i = 0 ; i < nums.length ; i++){
-            if (nums[i] % 3 != 0){
-                flag = false ;
-                count ++;
-                
+        int total = 0;
+        for (int x : nums) {
+            int r = x % 3;
+            if (r != 0) {
+                total += Math.min(r, 3 - r);
             }
         }
-
-        if (flag) return 0 ;
-        
-        return count ;
-
-
-        
+        return total;
     }
 }
