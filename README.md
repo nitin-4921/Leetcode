@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/nitin-4921/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitin-4921/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Binary Search
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitin-4921/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
 |  |
