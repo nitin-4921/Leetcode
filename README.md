@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nitin-4921/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/nitin-4921/Leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nitin-4921/Leetcode/tree/master/0792-binary-search) |
+| [0867-transpose-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/nitin-4921/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/nitin-4921/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-4921/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/nitin-4921/Leetcode/tree/master/0289-game-of-life) |
+| [0867-transpose-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0867-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Prefix Sum
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/nitin-4921/Leetcode/tree/master/0289-game-of-life) |
+| [0867-transpose-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0867-transpose-matrix) |
 ## Counting
 |  |
 | ------- |
