@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nitin-4921/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/nitin-4921/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/nitin-4921/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nitin-4921/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/nitin-4921/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/nitin-4921/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/nitin-4921/Leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/nitin-4921/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/nitin-4921/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nitin-4921/Leetcode/tree/master/0287-find-the-duplicate-number) |
