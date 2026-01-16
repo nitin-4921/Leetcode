@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/nitin-4921/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/nitin-4921/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/nitin-4921/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nitin-4921/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/nitin-4921/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/nitin-4921/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/nitin-4921/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-4921/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/nitin-4921/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
