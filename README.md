@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nitin-4921/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nitin-4921/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/nitin-4921/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/nitin-4921/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nitin-4921/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nitin-4921/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/nitin-4921/Leetcode/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/nitin-4921/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nitin-4921/Leetcode/tree/master/0709-to-lower-case) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nitin-4921/Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/nitin-4921/Leetcode/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nitin-4921/Leetcode/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/nitin-4921/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0867-transpose-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0867-transpose-matrix) |
 ## Counting
