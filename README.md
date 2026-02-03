@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitin-4921/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3637-trionic-array-i](https://github.com/nitin-4921/Leetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
