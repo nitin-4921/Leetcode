@@ -326,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nitin-4921/Leetcode/tree/master/0258-add-digits) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
