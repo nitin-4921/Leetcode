@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/nitin-4921/Leetcode/tree/master/0709-to-lower-case) |
 | [0784-letter-case-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nitin-4921/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/nitin-4921/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Backtracking
 |  |
 | ------- |
