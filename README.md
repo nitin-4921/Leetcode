@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nitin-4921/Leetcode/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nitin-4921/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/nitin-4921/Leetcode/tree/master/0198-house-robber) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nitin-4921/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitin-4921/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nitin-4921/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/nitin-4921/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/nitin-4921/Leetcode/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nitin-4921/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nitin-4921/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nitin-4921/Leetcode/tree/master/0415-add-strings) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/nitin-4921/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/nitin-4921/Leetcode/tree/master/0046-permutations) |
+| [0357-count-numbers-with-unique-digits](https://github.com/nitin-4921/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0784-letter-case-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Simulation
 |  |
