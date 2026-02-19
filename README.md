@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nitin-4921/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitin-4921/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0647-palindromic-substrings](https://github.com/nitin-4921/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-4921/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitin-4921/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/nitin-4921/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/nitin-4921/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitin-4921/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/nitin-4921/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/nitin-4921/Leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/nitin-4921/Leetcode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitin-4921/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0647-palindromic-substrings](https://github.com/nitin-4921/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/nitin-4921/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nitin-4921/Leetcode/tree/master/0709-to-lower-case) |
 | [0784-letter-case-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0784-letter-case-permutation) |
