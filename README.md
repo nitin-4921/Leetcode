@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nitin-4921/Leetcode/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0899-binary-gap](https://github.com/nitin-4921/Leetcode/tree/master/0899-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/nitin-4921/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitin-4921/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
