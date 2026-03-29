@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nitin-4921/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitin-4921/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/nitin-4921/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nitin-4921/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
 | ------- |
