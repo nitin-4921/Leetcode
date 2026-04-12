@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/nitin-4921/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitin-4921/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/nitin-4921/Leetcode/tree/master/3637-trionic-array-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/nitin-4921/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-4921/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitin-4921/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
 | ------- |
