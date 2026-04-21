@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/nitin-4921/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/nitin-4921/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0321-create-maximum-number](https://github.com/nitin-4921/Leetcode/tree/master/0321-create-maximum-number) |
+| [0445-add-two-numbers-ii](https://github.com/nitin-4921/Leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/nitin-4921/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/nitin-4921/Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nitin-4921/Leetcode/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/nitin-4921/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/nitin-4921/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -475,5 +477,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitin-4921/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nitin-4921/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/nitin-4921/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/nitin-4921/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
