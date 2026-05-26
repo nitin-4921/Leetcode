@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nitin-4921/Leetcode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/nitin-4921/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-4921/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nitin-4921/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitin-4921/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/nitin-4921/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/nitin-4921/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nitin-4921/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/nitin-4921/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Backtracking
 |  |
 | ------- |
