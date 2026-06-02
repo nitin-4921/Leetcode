@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitin-4921/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nitin-4921/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitin-4921/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3637-trionic-array-i](https://github.com/nitin-4921/Leetcode/tree/master/3637-trionic-array-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/nitin-4921/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitin-4921/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitin-4921/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitin-4921/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitin-4921/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitin-4921/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitin-4921/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Interactive
 |  |
 | ------- |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitin-4921/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitin-4921/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitin-4921/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
