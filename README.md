@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitin-4921/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitin-4921/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nitin-4921/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitin-4921/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitin-4921/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nitin-4921/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Memoization
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitin-4921/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nitin-4921/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitin-4921/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Counting Sort
 |  |
 | ------- |
