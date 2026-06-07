@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nitin-4921/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitin-4921/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/nitin-4921/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nitin-4921/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2643-row-with-maximum-ones](https://github.com/nitin-4921/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nitin-4921/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/nitin-4921/Leetcode/tree/master/0724-find-pivot-index) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/nitin-4921/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nitin-4921/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
