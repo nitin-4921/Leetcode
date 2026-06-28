@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/nitin-4921/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitin-4921/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitin-4921/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nitin-4921/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitin-4921/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/nitin-4921/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitin-4921/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitin-4921/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitin-4921/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitin-4921/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nitin-4921/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitin-4921/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1675-magnetic-force-between-two-balls](https://github.com/nitin-4921/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/nitin-4921/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nitin-4921/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nitin-4921/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitin-4921/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
