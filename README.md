@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitin-4921/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitin-4921/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/nitin-4921/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3945-digit-frequency-score](https://github.com/nitin-4921/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Memoization
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/nitin-4921/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitin-4921/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3945-digit-frequency-score](https://github.com/nitin-4921/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Sorting
 |  |
 | ------- |
