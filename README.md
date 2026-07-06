@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/nitin-4921/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-4921/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-4921/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nitin-4921/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/nitin-4921/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-4921/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/nitin-4921/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/nitin-4921/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
