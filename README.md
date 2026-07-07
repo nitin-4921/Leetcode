@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/nitin-4921/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/nitin-4921/Leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nitin-4921/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/nitin-4921/Leetcode/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/nitin-4921/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nitin-4921/Leetcode/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/nitin-4921/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/nitin-4921/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
