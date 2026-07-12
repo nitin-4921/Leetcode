@@ -1,17 +1,32 @@
 class Solution {
+    static int sum ;
     public int findTargetSumWays(int[] arr, int target) {
-        return ways(0 , arr, target) ;
+        sum = 0 ;
+        int n = arr.length ;
+        for(int num : arr) {
+            sum += num ;
+        } 
+        int dp[][] = new int[n][2*sum +1] ; 
+        for(int i =  0 ; i < n ; i++) {
+            Arrays.fill(dp[i] , -1 ) ;
+        }
+        return ways(0 , arr, 0,target,dp) ;
     }
 
-    public int ways(int i , int arr[] , int target) {
+    public int ways(int i, int arr[] ,int res , int target,int dp[][]) {
         if(i == arr.length) {
-            if(target == 0) {
+            if(target == res) {
                 return 1 ;
             }
             else return 0 ; 
         }
-        int add = ways(i+1 , arr , target - arr[i]) ;
-        int sub = ways(i+1 , arr , target + arr[i]) ; 
+
+        if(dp[i][res+sum] != -1) {
+            return dp[i][res+sum] ;
+        }
+        int add = ways(i+1 , arr ,res + arr[i],  target ,dp) ;
+        int sub = ways(i+1 , arr ,res - arr[i] ,  target ,dp) ; 
+        
         return add + sub ;
     }
 }
