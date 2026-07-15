@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nitin-4921/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nitin-4921/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitin-4921/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-letter-case-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0784-letter-case-permutation) |
 | [1143-longest-common-subsequence](https://github.com/nitin-4921/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/nitin-4921/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nitin-4921/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nitin-4921/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/nitin-4921/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/nitin-4921/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
