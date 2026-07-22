@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/nitin-4921/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/nitin-4921/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitin-4921/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/nitin-4921/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/nitin-4921/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nitin-4921/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1659-get-the-maximum-score](https://github.com/nitin-4921/Leetcode/tree/master/1659-get-the-maximum-score) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitin-4921/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitin-4921/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
