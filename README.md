@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/nitin-4921/Leetcode/tree/master/0792-binary-search) |
 | [0867-transpose-matrix](https://github.com/nitin-4921/Leetcode/tree/master/0867-transpose-matrix) |
 | [0874-walking-robot-simulation](https://github.com/nitin-4921/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/nitin-4921/Leetcode/tree/master/0877-stone-game) |
 | [0907-koko-eating-bananas](https://github.com/nitin-4921/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/nitin-4921/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/nitin-4921/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/nitin-4921/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/nitin-4921/Leetcode/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1092-shortest-common-supersequence](https://github.com/nitin-4921/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/nitin-4921/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/nitin-4921/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/nitin-4921/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/nitin-4921/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitin-4921/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -652,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/nitin-4921/Leetcode/tree/master/0279-perfect-squares) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/nitin-4921/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
