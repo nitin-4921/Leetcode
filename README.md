@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/nitin-4921/Leetcode/tree/master/0386-lexicographical-numbers) |
+| [0938-range-sum-of-bst](https://github.com/nitin-4921/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Trie
 |  |
 | ------- |
@@ -672,4 +673,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/nitin-4921/Leetcode/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/nitin-4921/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/nitin-4921/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/nitin-4921/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
