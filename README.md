@@ -694,4 +694,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/nitin-4921/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
