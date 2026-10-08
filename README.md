@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nitin-4921/Leetcode/tree/master/0321-create-maximum-number) |
 | [0445-add-two-numbers-ii](https://github.com/nitin-4921/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/nitin-4921/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nitin-4921/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/nitin-4921/Leetcode/tree/master/0709-to-lower-case) |
 | [0784-letter-case-permutation](https://github.com/nitin-4921/Leetcode/tree/master/0784-letter-case-permutation) |
+| [1021-remove-outermost-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/nitin-4921/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/nitin-4921/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/nitin-4921/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -698,4 +700,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
