@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nitin-4921/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/nitin-4921/Leetcode/tree/master/3637-trionic-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nitin-4921/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nitin-4921/Leetcode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nitin-4921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/nitin-4921/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nitin-4921/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nitin-4921/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Interactive
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitin-4921/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nitin-4921/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nitin-4921/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/nitin-4921/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/nitin-4921/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nitin-4921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
