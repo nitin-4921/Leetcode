@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/nitin-4921/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/nitin-4921/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nitin-4921/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/nitin-4921/Leetcode/tree/master/2235-add-two-integers) |
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/nitin-4921/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
