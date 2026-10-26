@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/nitin-4921/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/nitin-4921/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0954-maximum-sum-circular-subarray](https://github.com/nitin-4921/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0997-find-the-town-judge](https://github.com/nitin-4921/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1260-shift-2d-grid](https://github.com/nitin-4921/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nitin-4921/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/nitin-4921/Leetcode/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/nitin-4921/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/nitin-4921/Leetcode/tree/master/0645-set-mismatch) |
 | [0874-walking-robot-simulation](https://github.com/nitin-4921/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0997-find-the-town-judge](https://github.com/nitin-4921/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/nitin-4921/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nitin-4921/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-4921/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -708,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nitin-4921/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/nitin-4921/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
