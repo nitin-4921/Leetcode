@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nitin-4921/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nitin-4921/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin-4921/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nitin-4921/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/nitin-4921/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nitin-4921/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/nitin-4921/Leetcode/tree/master/2681-power-of-heroes) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/nitin-4921/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nitin-4921/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nitin-4921/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/nitin-4921/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/nitin-4921/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nitin-4921/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nitin-4921/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/nitin-4921/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nitin-4921/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/nitin-4921/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/nitin-4921/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
